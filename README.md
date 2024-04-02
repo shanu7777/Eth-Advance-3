@@ -1,6 +1,4 @@
-# Security Audit Project
-
-## Security Audit Report of StorageVictim Contract (OriginalContract.sol.example)
+# Eth Advance 3
 
 ### Summary
 
@@ -54,13 +52,11 @@ npx hardhat test
 To deploy the contract, setup your `env`, paste your wallet private key where necessary and run the following command:
 
 ```shell
-npx hardhat run scripts/deploy.js --network mumbai
+npx hardhat run scripts/deploy.js --network sepolia
 ```
 
-## Author
-
-[Samaila Anthony Malima](https://github.com/samailamalima)
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+- - -
